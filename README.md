@@ -9,6 +9,15 @@
 
 # Java专场
 
+
+## 招聘区
+
+如果你有 HC 岗位，赶紧填写你的招聘信息躺着拿内推奖金
+
+[点击这里，新建一条招聘信息](https://github.com/bytearch/BetterJob/issues/new?assignees=&labels=&template=job-information.md&title=JAVA-公司名-地点-岗位级别-薪资范围)
+
+<br/>
+
 ## 求职区
 
 * 根据城市划分，点击投递
